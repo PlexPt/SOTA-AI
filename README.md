@@ -15,7 +15,7 @@
 | 豆包 | Doubao‑pro‑256k 等 | 字节跳动 | 基础 | 否 | https://doubao.com |
 | MiniMax | MiniMax‑M2.7 | MiniMax | 基础 | 否 | https://minimax.io |
 | 通义千问 (Qwen) | Qwen3.6 | 阿里云 | 基础 | 部分开源 | https://tongyi.aliyun.com |
-| 通义万相 (Wan) | Wan2.2 | 阿里云 | 视频生成 | 部分开源 | https://wan.video |
+| 通义万相 (Wan) | Wan2.7 | 阿里云 | 视频生成 | 部分开源 | https://wan.video |
 | Grok | Grok‑4 | xAI | 基础 | 否 | https://x.ai |
 | Midjourney | V7 | Midjourney | 图像生成 | 否 | https://midjourney.com |
 | Stable Diffusion | 4.0 | Stability AI | 图像生成 | 是 | https://stability.ai |
