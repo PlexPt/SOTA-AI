@@ -29,4 +29,11 @@
 | Seedance | 2 | 字节跳动 | 视频生成 | 否 | seedance.com |
 | Hailuo AI | MiniMax‑Video‑01 | MiniMax | 视频生成 | 否 | hailuoai.com |
 | VoxCPM | VoxCPM2 | OpenBMB（面壁智能） | 语音合成（可控声音克隆） | 是 | github.com/OpenBMB/VoxCPM |
-
+| Muse Spark | muse-spark | Meta | 基础（原生多模态推理，闭源） | 否 | meta.ai |
+| MiMo | MiMo-V2-Pro | 小米 | 基础（面向智能体工作的旗舰模型） | 否 | mimo.xiaomi.com/mimo-v2-pro |
+| ChatGPT Images | 2.0 | OpenAI | 图像生成 | 否 | openai.com |
+| Gemma | Gemma 4 | Google DeepMind | 基础（多模态推理，支持智能体） | 是 | ai.google.dev/gemma |
+| Nano Banana | Nano Banana 2 | Google DeepMind | 图像生成/编辑（快速低成本） | 否 | AI Studio / Gemini API |
+| Grok Imagine | grok-imagine-image | xAI | 图像生成/编辑（含视频） | 否 | 可通过 ComfyUI 节点及 API 使用 |
+| Flux | FLUX.2 | Black Forest Labs | 图像生成/编辑 | 部分开源 | github.com/black-forest-labs |
+| Happy Horse | Happy Horse 1.0 | 阿里巴巴（未来光实验室） | 视频生成（原生音画同步） | 是 | GitHub |
