@@ -28,5 +28,5 @@
 | 即梦 | 3.0 | 字节跳动 | 图像/视频生成 | 否 | jimeng.jianying.com |
 | Seedance | 2 | 字节跳动 | 视频生成 | 否 | seedance.com |
 | Hailuo AI | MiniMax‑Video‑01 | MiniMax | 视频生成 | 否 | hailuoai.com |
-
+| VoxCPM | VoxCPM2 | OpenBMB（面壁智能） | 语音合成（可控声音克隆） | 是 | github.com/OpenBMB/VoxCPM |
 
