@@ -34,6 +34,6 @@
 | ChatGPT Images | 2.0 | OpenAI | 图像生成 | 否 | https://openai.com |
 | Gemma | Gemma 4 | Google DeepMind | 基础 | 是 | https://ai.google.dev/gemma |
 | Nano Banana | Nano Banana 2 | Google DeepMind | 图像生成 | 否 | https://aistudio.google.com / 使用 Gemini API |
-| Grok Imagine | grok-imagine-image | xAI | 图像生成 | 否 | 可通过 ComfyUI 节点及 API 使用（无独立官网） |
+| Grok Imagine | grok-imagine-image | xAI | 图像生成 | 否 |  https://grok.com/imagine |
 | Flux | FLUX.2 | Black Forest Labs | 图像生成 | 部分开源 | https://github.com/black-forest-labs |
 | Happy Horse | Happy Horse 1.0 | 阿里巴巴（未来光实验室） | 视频生成 | 是 | https://github.com（请以官方发布链接为准） |
