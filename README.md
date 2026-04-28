@@ -1,7 +1,7 @@
 # SOTA-AI
 探索全球顶级主流AI模型
 
-| 产品 | 最新版本 | 厂家 | 类型 | 是否开源 | 链接 |
+| 产品 | 最新版本 | 厂家 | 类型 | 开源 | 链接 |
 |------|----------|------|------|----------|------|
 | ChatGPT | GPT‑5.5 | OpenAI | 基础 | 否 | https://chatgpt.com |
 | Claude | Claude 4.7 Opus, Sonnet | Anthropic | 基础 | 否 | https://claude.ai |
@@ -30,7 +30,7 @@
 | Hailuo AI | MiniMax‑Video‑01 | MiniMax | 视频生成 | 否 | https://hailuoai.com |
 | VoxCPM | VoxCPM2 | OpenBMB（面壁智能） | 语音合成 | 是 | https://github.com/OpenBMB/VoxCPM |
 | Muse Spark | muse-spark | Meta | 基础 | 否 | https://meta.ai |
-| MiMo | MiMo-V2-Pro | 小米 | 基础 | 否 | https://mimo.xiaomi.com/mimo-v2-pro |
+| MiMo | MiMo-V2.5-Pro | 小米 | 基础 | 否 | https://mimo.xiaomi.com/mimo-v2-pro |
 | ChatGPT Images | 2.0 | OpenAI | 图像生成 | 否 | https://openai.com |
 | Gemma | Gemma 4 | Google DeepMind | 基础 | 是 | https://ai.google.dev/gemma |
 | Nano Banana | Nano Banana 2 | Google DeepMind | 图像生成 | 否 | https://aistudio.google.com |
